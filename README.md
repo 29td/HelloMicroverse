@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Hello Microy
+# Hello Microverse
 
 > Add Gitignore,html,assets and style.css.
 
@@ -51,9 +51,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- I'm very grateful to all those who helped clear the confusion with their code.
+- It is such a great honour to be sharing my work with everyone. I know some may learn something from my work some may help me learn new things too.
 
 ## 📝 License
 
