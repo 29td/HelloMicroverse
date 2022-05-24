@@ -1,56 +1,43 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello Microy
 
-> Description the project.
+> Add Gitignore,html,assets and style.css.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
+- Html/CSS
+- git-bash/Vscode
+- laptop windows 10
 
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-
+Git-Download & install 
+Vscode-Download & install
+GitHub browser
 ### Setup
-
+On the top-right on your GitHub create a new repo name it with respective to your GitHub name.
 ### Install
-
-### Usage
+Install VSCode
+Install Git-bash
 
 ### Run tests
-
+You can run the test on VSCode 
 ### Deployment
-
 
 
 ## Authors
 
-👤 **Author1**
+👤 My social media details are as follows:
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- GitHub: [@29td](https://github.com/githubhandle)
+- Twitter: [@NonhlanhlaMnde6](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
