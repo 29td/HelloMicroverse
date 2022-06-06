@@ -36,7 +36,7 @@ You can run the test on VSCode
 
 - GitHub: [@29td](https://github.com/githubhandle)
 - Twitter: [@NonhlanhlaMnde6](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/nonhlanhla-mndebele-ab7448226)
 
 
 ## 🤝 Contributing
